@@ -1,0 +1,46 @@
+Exercícios
+
+1.	Faça um programa que leia um intervalo de números e imprima todos os seus pares, bem como o somatório destes números.
+
+2.	Faça um programa que leia um conjunto de números e imprima todos os múltiplos de 3 e 5
+
+3.	Faça um programa que leia 30 números inteiros e imprima quantos são pares e quantos são ímpares.
+
+4.	Faça um programa que solicite uma sequência de números e determine se ele são primos ou não
+
+5.	Seja a seguinte série: 1, 4, 4, 2, 5, 5, 3, 6, 6, 4, 7, 7, ... Escreva um programa que seja capaz de gerar os N termos dessa série
+
+6.	Faça um programa que imprima todos os números de 1 até 30 e a soma do quadrado desses números
+
+7.	Faça um programa que receba dez números do usuário e imprima o cubo de cada número
+
+8.	Faça um programa que leia dez números inteiros e imprima o maior e o menor número da lista
+
+9.	Faça um programa que receba 20 números e imprima quantos deles são maiores que 50
+
+10.	Faça um programa que leia dados de 15 pessoas, como a altura e o código do sexo (código = 1 se for masculino e 2 se for feminino), e calcule e imprima:
+-	a maior e a menor altura da turma;
+-	a média de altura das mulheres;
+-	a média de altura da turma
+
+11.	Faça um programa para calcular a média de 10 valores PARES e ÍMPARES, que serão digitados pelo usuário. Ao final o programa deve mostrar estas duas médias. O programa deve mostrar também o maior número PAR digitado e o menor númeroÍMPAR digitado. Para finalizar o usuário irá digitar um valor negativo
+
+12.	José tem 1,50m e cresce 2 centímetros por ano, enquanto João tem 1,10m e cresce 3 centímetros por ano. Construir um programa que calcule e imprima quantos anos serão necessários para que João seja maior que José
+
+13.	Escreva um programa que receba vários números inteiros e imprima a quantidade de números primos dentre os números que foram digitados. O programa deve ser finalizado quando se digita um número menor ou igual a 0
+
+14.	Uma Empresa de fornecimento de energia elétrica faz a leitura mensal dos medidores de consumo. Para cada consumidor, são digitados os seguintes dados:
+-	Número do consumidor;
+-	Quantidade de kWh consumidos durante o mês; - Tipo (código) do consumidor.
+1	– residencial, preço em reais por kWh = 0,3
+2	– comercial, preço em reais por kWh = 0,5
+3	– industrial, preço em reais por kWh = 0,7
+Os dados devem ser lidos até que seja encontrado um consumidor com Número 0 (zero). Escreva um programa que calcule e imprima:
+-	O custo total para cada consumidor;
+-	O total de consumo para os três tipos de consumidor; - A média de consumo dos tipos 1 e 2.
+
+15.	Escreva um programa que receba o número da conta e o saldo de várias pessoas. Ele deve imprimir todas as contas, os respectivos saldos e uma das mensagens: positivo/negativo. Ao final, o percentual de pessoas com saldo negativo. O programa finaliza quando se digita um número negativo para a conta
+
+16.	Uma fábrica produz e vende vários produtos e para cada um deles tem-se o nome, quantidade produzida e quantidade vendida. Criar um programa que imprima:
+-	Para cada produto, nome, quantidade no estoque e uma mensagem se o produto tiver menos de 50 itens no estoque;
+-	Nome e quantidade do produto com maior estoque;

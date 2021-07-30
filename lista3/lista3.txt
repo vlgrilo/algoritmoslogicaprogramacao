@@ -1,0 +1,21 @@
+Exercícios - Vetores
+ 
+1	Faça um programa que leia um vetor de 10 números inteiros e em seguida apresente todos eles 
+
+2	Faça um programa que leia um vetor de 10 números inteiros e exiba-os na ordem inversa
+
+3	Faça um programa que solicite ao usuário 10 números reais e armazene-os em um vetor. Em seguida, imprima a soma de todos eles e a média aritmética
+
+4	Faça um programa que leia 4 notas de um aluno, apresente a média aritmética bem como a sua situação: (Media < 3 - Reprovado, Média >=3 e < 7 - Exame e Média >=7 Aprovado)
+
+5	Faça um programa que leia um vetor de 15 caracteres e informe quantas vogais foram digitadas pelo usuário  
+
+6	Faça um programa que leia 20 números inteiros e armazene-os num vetor. Em seguida imprima-os e informe quantos são pares e ímpares
+
+7	Faça um programa que leia um vetor de 10 números inteiros e em seguida apresenteos em ordem crescente
+
+8	Faça um programa que leia um vetor de 10 números inteiros e em seguida apresenteos em ordem decrescente
+
+9	Faça um programa que leia dois vetores com 10 elementos cada. Gere um terceiro vetor de 20 elementos, cujos valores deverão ser compostos pelos elementos dos dois outros vetores. 
+
+10	Faça um programa que armazena as alturas de 20 pessoas. Em seguida imprima a maior menor delas

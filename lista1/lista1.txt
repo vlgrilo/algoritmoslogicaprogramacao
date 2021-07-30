@@ -1,0 +1,48 @@
+Exercícios
+
+1.	Faça um programa que receba o salário de um funcionário (número real), calcule e mostre o novo salário, adicionando um aumento de 25%. 
+
+2.	Faça um programa que dada a idade de um nadador classifica-o em uma das seguintes categorias: 
+infantil A = 5 - 7 anos
+infantil B = 8-10 anos
+juvenil A = 11-13 anos
+juvenil B = 14-17 anos
+adulto = maiores de 18 anos
+
+3.	Tendo como dados de entrada a altura e o sexo de uma pessoa (M masculino e F feminino), construa um programa que calcule seu peso ideal, utilizando as seguintes fórmulas:
+- para homens: (72.7*h)-58
+- para mulheres: (62.1*h)-44.7
+
+4.	Faça um programa que calcule e mostre a área de um triângulo. Sabe-se que: Área = (base * altura) / 2.
+
+5.	Faça um programa que leia uma temperatura dada na escala Celsius (C) e imprima o equivalente em Fahrenheit (F). (Fórmula de conversão: F = 9/5 * C + 32)
+
+6.	O cardápio de uma lanchonete é dado abaixo. Prepare um programa que leia a quantidade de cada item que você consumiu e calcule a conta final. Hambúrguer................. R$ 3,00 
+Fritas............................ R$ 2,50 
+Refrigerante................. R$ 1,00 
+
+7.	Uma companhia de carros paga a seus empregados um salário de R$ 500,00 por mês mais uma comissão de R$ 50,00 para cada carro vendido e mais 5% do valor da venda. Elabore um algoritmo para calcular e imprimir o salário do vendedor num dado mês recebendo como dados de entrada o nome do vendedor, o número de carros vendidos e o valor total das vendas
+
+8.	Faça um programa que solicite ao usuário a entrada de 10 números e imprima como resultado a soma de todos os ímpares
+
+9.	Faça um programa que solicite ao usuário a entrada de 10 números e imprima como resultado a soma de todos os pares
+
+10.	Construa um programa que exiba a tabuada de 1 até N 
+
+11.	Crie um programa que leia os dados de uma matriz quadrada de inteiros. Como resultado o programa deverá imprimir o número da linha que contém o menor dentre todos os números lidos.
+
+12.	Faça um programa que receba como entrada um valor inteiro e apresente como resultado o seu fatorial
+
+13.	Faça um programa que solicite ao usuário uma string e retorne seu número de caracteres
+
+14.	Escreva um programa que leia 3 notas de um aluno, ele deverá calcular a média ponderada utilizando a seguinte fórmula: Media = (N1*2 + N2*3)/2+3. A partir da média, informar o conceito de acordo com o seguinte critério: 
+Se média >= 5 – Aluno aprovado
+Se média < 5   - Aluno reprovado
+
+15.	Faça um programa que leia dois nomes de pessoas e imprima-os em ordem alfabética. 
+
+16.	Faça um programa que multiplique os elementos existentes na diagonal de uma matriz 5 x 5 a apresente o resultado
+
+17.	Faça um programa que crie um vetor de pessoas. Os dados de uma pessoa devem ser armazenados em um variavel do tipo struct. O programa deve permitir que o usuário digite o nome de 3 pessoas e a seguir imprimi os dados de todas as pessoas. A struct deve armazenar os dados de idade, peso e altura.
+
+18.	Faça um programa que crie uma matriz 3x3, faça o seu preenchimento e em seguida substitua todos os números negativos por 0 (zero)
